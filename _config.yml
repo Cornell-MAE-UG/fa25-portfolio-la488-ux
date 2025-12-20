@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Liam Alcalay
 description              : Liam Alcalay - Projects and CV 
-baseurl                  : ""
+baseurl                  : "/spring-2025-portfolio-Alcalay/"
 # Theme and Style
 theme: jekyll-theme-minimal
 color_scheme: light # light/default, dark, or aqua

@@ -7,7 +7,7 @@ image: assets/images/SpottedLanternfly.jpg
 ---
 
 <iframe 
-  src="{{ '/assets/Client Outline and Pitch.pdf' | relative_url }}" 
+  src="{{ '/assets/Client Outline and Pitch.pdf#toolbar=0&navpanes=0&scrollbar=0' | relative_url }}" 
   width="100%" 
-  height="900px">
+  height="1000px">
 </iframe>

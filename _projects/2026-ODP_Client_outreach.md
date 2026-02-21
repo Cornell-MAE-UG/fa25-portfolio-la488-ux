@@ -6,5 +6,8 @@ technologies: [N/A]
 image: assets/images/SpottedLanternfly.jpg
 ---
 
-
-blahhda blahadha 
+<iframe 
+  src="{{ '/assets/Client Outline and Pitch.pdf' | relative_url }}" 
+  width="100%" 
+  height="900px">
+</iframe>

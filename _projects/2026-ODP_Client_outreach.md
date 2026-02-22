@@ -9,6 +9,6 @@ For our Introduction to Mechanical Design class, we are tasked with providing so
 
 <iframe 
   src="{{ '/assets/Client Outline and Pitch.pdf#toolbar=0&navpanes=0&scrollbar=0' | relative_url }}" 
-  width="100%" 
+  width="140%" 
   height="1000px">
 </iframe>

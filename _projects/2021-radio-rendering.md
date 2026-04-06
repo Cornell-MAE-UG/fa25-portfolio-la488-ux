@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Statics Actuator Optimization
+title: Actuator Optimization
 description: Design Optimization Problem 
 technologies: [N/A]
 image: /assets/images/portfolio1.1.jpg

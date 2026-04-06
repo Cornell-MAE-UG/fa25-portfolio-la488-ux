@@ -2,7 +2,7 @@
 layout: project
 title: Actuator Optimization
 description: Design Optimization Problem 
-technologies: [3D printing, Fusion]
+technologies: [N/A]
 image: /assets/images/portfolio1.1.jpg
 ---
 

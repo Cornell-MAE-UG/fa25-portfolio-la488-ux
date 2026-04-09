@@ -4,6 +4,8 @@ title: ODP Client Outreach
 description: Proposing different solutions and gathering information from clients regarding the Spotted Lanternfly threat to grapefarms
 technologies: [N/A]
 image: assets/images/SpottedLanternfly.jpg
+hidden: true
+permalink: /projects/odp/client-pitch/
 ---
 For our Introduction to Mechanical Design class, we are tasked with providing solutions for farmers and specialists in the agricultural sector to combat the Spotted Lanternfly threat to grape farms. Our proposal includes various possible solutions, the information we have gathered so far, and questions for our clients to help better gauge potential solution paths.
 

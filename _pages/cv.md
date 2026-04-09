@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/Liam Alcalay Resume.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Liam Alcalay Resume(1).pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [la488@cornell.edu](mailto:la488@cornell.edu) | | | **Phone:** +617 435 4950 

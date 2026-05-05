@@ -1,6 +1,6 @@
 ---
 layout: project
-title: ODP 5 - First Prototype
+title: ODP - First Prototype
 description: Detailed description of the materials, components, and assembly process of our first prototype.
 technologies: [3D printing, Fusion 360]
 image: assets/images/Prototype1.jpg

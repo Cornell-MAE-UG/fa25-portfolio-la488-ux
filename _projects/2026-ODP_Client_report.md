@@ -1,6 +1,6 @@
 ---
 layout: project
-title: ODP 5 - Client Report 
+title: ODP - Client Report 
 description: Final overview of the project including the problem statement, solution direction, prototypes, testing, and our final conclusion. 
 technologies: [3D printing, Fusion 360, Hand tools]
 image: assets/images/FinalPrototype.jpg

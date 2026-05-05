@@ -1,6 +1,6 @@
 ---
 layout: project
-title: ODP Client Outreach 
+title: ODP - Client Outreach 
 description: Proposing different solutions and gathering information from clients regarding the Spotted Lanternfly threat to grapefarms
 technologies: [N/A]
 image: assets/images/SpottedLanternfly.jpg

@@ -20,11 +20,7 @@ Aspiring engineering student with a strong critical thinking, problem-solving, a
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.84/4.0 | Graduation: June, 2028
-  
-- **Brandeis University**  
-  *Bachelor of Science in Applied Mathematics*  
-  GPA: 3.96/4.0 | Graduation: August, 2024 - May, 2025
+  GPA: /4.0 | Graduation: June, 2028
 
 - **[Brookline High School]**  
   *High School Diploma*  

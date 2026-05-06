@@ -17,3 +17,9 @@ permalink: /projects/odp/client-report/
   width="150%" 
   height="1000px">
 </iframe>
+
+<iframe 
+  src="{{ '/assets/The Grape Poster (36 x 48 in).pdf#toolbar=0&navpanes=0&scrollbar=0' | relative_url }}" 
+  width="150%" 
+  height="1000px">
+</iframe>

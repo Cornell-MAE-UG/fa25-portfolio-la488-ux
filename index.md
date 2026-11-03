@@ -6,10 +6,10 @@ title: Liam Alcalay
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/Liam_Alcalay_headshot.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is Liam Alcalay. I am a sophomore transfer currently studying mechanical engineering at Cornell University. I spent my freshman year at Brandeis University in Waltham, MA. I am interested in design roles spannning different fields including aerospace, automotive, and biomedical device design. 
+My name is Liam Alcalay. I am a junior currently studying Mechanical Engineering at Cornell University and planning to minor in Robotics. I am interested in design and research roles in various fields including robotics, automation, controls, aerospace, biomedical design, and more.
 
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.

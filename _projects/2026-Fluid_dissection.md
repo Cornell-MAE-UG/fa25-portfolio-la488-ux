@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Fluid Dissection 
-description: Fluid Mechanics Dissection 
+title: Fluid Mechanics Dissection 
+description: Fluid Mechanical Dissection 
 technologies: []
 image: 
 
